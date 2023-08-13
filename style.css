@@ -1,12 +1,24 @@
 .jumbotron {
   padding-top: 6rem;
-  background-color: #a9a9ad;
+  background-color: #00808070;
 }
 
 #galeriku {
-  background-color: #a9a9ad;
+  background-color: #00808070;
 }
 
 section {
   padding-top: 5rem;
+}
+
+.navbar {
+  background-color: #008080;
+}
+
+#kontak {
+  background-color: #00808070;
+}
+
+footer {
+  background-color: #008080;
 }
